@@ -11,13 +11,8 @@
 - 🐘 [PostgreSQL](https://www.postgresql.org/) — база данных  
 - 🛠 [SQLAlchemy](https://www.sqlalchemy.org/) — ORM  
 - 🔄 [Alembic](https://alembic.sqlalchemy.org/) — миграции БД  
-- 📦 [Poetry](https://python-poetry.org/) — менеджер зависимостей  
-- 🐳 [Docker Compose](https://docs.docker.com/compose/) — контейнеризация  
+- 📦 [Poetry](https://python-poetry.org/) — менеджер зависимостей    
 
 ---
 
-## 🚀 Запуск
-### 🔹 Локально (через Poetry)
-```bash
-poetry install
-poetry run uvicorn crm_app.main:app --reload
+
